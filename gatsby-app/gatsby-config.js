@@ -5,7 +5,6 @@ require("dotenv").config({
 module.exports = {
   plugins: [
     {
-      // resolve: require.resolve("../gatsby-plugin-clerk"),
       resolve: "gatsby-plugin-clerk",
       options: {
         frontendApi: process.env.GATSBY_CLERK_FRONTEND_API,
