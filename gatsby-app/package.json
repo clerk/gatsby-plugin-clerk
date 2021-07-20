@@ -6,11 +6,12 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@chakra-ui/react": "^1.6.5",
-    "@clerk/clerk-react": "latest",
+    "@clerk/clerk-react": "^1.14.0",
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
     "framer-motion": "^4.1.17",
     "gatsby": "^3.9.0",
+    "gatsby-plugin-clerk": "^1.0.0",
     "gatsby-plugin-gatsby-cloud": "^2.9.0",
     "gatsby-plugin-image": "^1.9.0",
     "gatsby-plugin-manifest": "^3.9.0",
