@@ -1,4 +1,4 @@
-# Building gatsby-plugin-clerk
+# gatsby-plugin-clerk
 
 ## Instructions
 
@@ -9,6 +9,8 @@
 3. Link the plugin: `npm link ../plugin`
 4. Create a file called `.env.development`, add a key `GATSBY_CLERK_FRONTEND_API` and assign your `frontendApi` to it
 5. Run the app: `npm start`
+6. `cd` into `plugin`
+7. Make the necessary changes
 
 ### Publishing the plugin
 
