@@ -5,11 +5,13 @@
     "main": "index.js",
     "keywords": [
         "clerk",
+        "clerk.dev",
         "gatsby",
         "gatsby-plugin",
-        "user management",
+        "gatsby-plugin-clerk",
         "auth",
-        "authentication"
+        "authentication",
+        "user management"
     ],
     "peerDependencies": {
         "@clerk/clerk-react": "^1.14.0",
