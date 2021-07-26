@@ -1,4 +1,4 @@
-import * as React from "react"
+import React from "react"
 import {
   SignedIn,
   SignedOut,
@@ -7,7 +7,7 @@ import {
   SignIn,
 } from "@clerk/clerk-react"
 
-const IndexPage = () => {
+function IndexPage() {
   return (
     <>
       <h1>Gatsby Plugin Playground</h1>
