@@ -1,4 +1,4 @@
-# Building gatsby-plugin-clerk
+# gatsby-plugin-clerk
 
 ## Instructions
 
