@@ -1,16 +1,16 @@
 {
     "name": "gatsby-plugin-clerk",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "Drop-in Clerk integration for Gatsby sites.",
     "main": "index.js",
-    "scripts": {},
     "keywords": [
         "clerk",
         "gatsby",
-        "gatsby-plugin"
+        "gatsby-plugin",
+        "user management",
+        "auth",
+        "authentication"
     ],
-    "author": "Marcel Cruz <marcel@clerk.dev>",
-    "license": "MIT",
     "peerDependencies": {
         "@clerk/clerk-react": "^1.14.0",
         "gatsby": "^3.9.0"
