@@ -28,7 +28,8 @@ module.exports = {
         {
             resolve: 'gatsby-plugin-clerk',
             options: {
-                // OBS: Don't push your frontend API key to version control; a safer approach is to set it as an environment variable for each environment your app will run in.
+                // OBS: Don't push your frontend API key to version control.
+                // A safer approach is to set it as an environment variable for each environment your app will run in.
                 frontendApi: <YOUR_FRONTEND_API_KEY>
             }
         }
