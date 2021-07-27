@@ -1,5 +1,5 @@
-import * as React from 'react'
-// import { navigate } from 'gatsby'
+import React from 'react'
+import { navigate } from 'gatsby'
 import { ClerkProvider } from '@clerk/clerk-react'
 
 export const WrapRootElement = ({ element, options }) => {
@@ -8,10 +8,7 @@ export const WrapRootElement = ({ element, options }) => {
     }
 
     return (
-        <ClerkProvider
-            // navigate={to => navigate(to)}
-            {...options}
-        >
+        <ClerkProvider navigate={to => navigate(to)} {...options}>
             {element}
         </ClerkProvider>
     )
