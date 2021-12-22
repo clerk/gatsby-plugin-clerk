@@ -1,5 +1,7 @@
 # gatsby-plugin-clerk
 
+<a href="https://clerk.dev"><img width="200" src="./assets/clerk-logo.svg" alt="Clerk's logo"/></a>
+
 Drop-in [Clerk](https://clerk.dev) integration for Gatsby sites.
 
 This plugin adds `ClerkProvider` around your app.
