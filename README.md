@@ -1,5 +1,11 @@
 # gatsby-plugin-clerk
 
+
+**Clerk is Hiring!**
+
+Would you like to work on Open Source software and help maintain this repository? Apply today https://apply.workable.com/clerk-dev/.
+
+
 ## Instructions
 
 ### Developing the plugin
