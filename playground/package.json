@@ -1,0 +1,18 @@
+{
+  "name": "playground",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Gatsby Clerk Playground",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "gatsby-plugin-clerk": "workspace:*",
+    "gatsby": "^5.13.5"
+  }
+}
