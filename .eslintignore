@@ -1,0 +1,14 @@
+**/coverage/**
+**/node_modules/**
+**/dist/*
+**/build/*
+**/.turbo/*
+playground
+.idea
+.vscode
+.turbo
+.next
+.cache
+.yalc
+package-lock.json
+pnpm-lock.yaml
